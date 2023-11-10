@@ -60,11 +60,26 @@ def format_tabs(tabs)
       ['name', format_tab_name(v)],
       ['overview', format_preset_name(load_preset_by_name(v[:overview]))],
       ['bracket', format_preset_name(load_preset_by_name(v[:bracket]))]
-    ]]
+    ].concat(load_tab_columns(v))]
     tab_array << tab
   end
 
   {'tabSetup' => tab_array}
+end
+
+def load_tab_columns(tab)
+  return [] if !tab.key?('columns')
+
+  column_data = ActiveSupport::HashWithIndifferentAccess.new(
+    YAML.load_file File.join('columns', "#{tab[:columns]}.yml")
+  )
+
+  columns = []
+  column_data.each do |k, v|
+    columns << [k, v]
+  end
+
+  columns
 end
 
 def load_preset_by_name(preset)
