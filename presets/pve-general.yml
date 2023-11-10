@@ -1,0 +1,15 @@
+---
+name: general
+symbol: ♣ pve
+level: 1
+groups:
+  - common-pve
+  - gates
+  - containers
+  - _entity-precursor_cache
+  - _deployable-mobile_depot
+  - _deployable-mobile_tractor_unit
+  - _ship
+  - rats
+states:
+  - all

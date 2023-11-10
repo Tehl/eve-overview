@@ -1,0 +1,11 @@
+---
+appearance: default
+columns: personal
+labels: personal
+settings: personal
+tabs:
+  - t-mining
+  - t-pve-solo
+  - t-pve-group
+  - t-pvp
+  - t-cloaky

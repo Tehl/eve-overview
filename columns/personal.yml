@@ -1,0 +1,23 @@
+---
+columnOrder:
+  - TAG
+  - ICON
+  - DISTANCE
+  - NAME
+  - TYPE
+  - ANGULARVELOCITY
+  - CORPORATION
+  - ALLIANCE
+  - FACTION
+  - MILITIA
+  - SIZE
+  - VELOCITY
+  - RADIALVELOCITY
+  - TRANSVERSALVELOCITY
+
+tabColumns:
+  - ANGULARVELOCITY
+  - DISTANCE
+  - ICON
+  - NAME
+  - TYPE

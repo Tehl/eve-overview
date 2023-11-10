@@ -1,0 +1,36 @@
+---
+- name: ✈
+  color: FFFFBB33
+  overview: travel
+  bracket: brackets-all
+  columns: personal
+
+- name: general
+  color: FFFFAA66
+  overview: pvp-general
+  bracket: brackets-all
+  columns: personal
+
+- name: hostile
+  color: FFFF4444
+  overview: hostile
+  bracket: brackets-all
+  columns: personal
+
+- name: colliders
+  color: FF99CC00
+  overview: brackets-all
+  bracket: brackets-all
+  columns: personal
+
+- name: loot
+  color: FFAA66CC
+  overview: extra-salvage
+  bracket: brackets-all
+  columns: personal
+
+- name: warp
+  color: FF33B5E5
+  overview: extra-warpout
+  bracket: brackets-all
+  columns: personal

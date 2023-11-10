@@ -1,0 +1,13 @@
+---
+name: general
+symbol: ♞ pvp
+level: 1
+groups:
+  - common-minimal
+  - _celestial-sun
+  - _deployable
+  - gates
+  - _ship
+  - rats
+states:
+  - all
