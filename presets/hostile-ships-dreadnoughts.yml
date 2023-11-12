@@ -5,5 +5,6 @@ level: 2
 groups:
   - common-minimal-ships
   - _ship-dreadnought
+  - _ship-lancer_dreadnought
 states:
   - hostile
