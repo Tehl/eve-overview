@@ -5,6 +5,7 @@ include:
   - _entity-destructible_agents_in_space
   - _entity-destructible_sentry_gun
   - _entity-irregular
+  - _entity-fabricator_rogue_drones
   - _entity-pirate_drone
   - _entity-pirate_entities
   - _entity-protective_sentry_gun
