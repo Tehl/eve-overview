@@ -18,6 +18,7 @@ include:
   - _ship-electronic_attack_ship
   - _ship-elite_battleship
   - _ship-exhumer
+  - _ship-expedition_command_ship
   - _ship-expedition_frigate
   - _ship-force_recon_ship
   - _ship-frigate
@@ -35,6 +36,7 @@ include:
   - _ship-prototype_exploration_ship
   - _ship-rookie_ship
   - _ship-shuttle
+  - _ship-special_edition_yachts
   - _ship-stealth_bomber
   - _ship-strategic_cruiser
   - _ship-tactical_destroyer

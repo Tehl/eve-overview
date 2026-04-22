@@ -4,6 +4,7 @@ symbol: ♞ hostile
 level: 2
 groups:
   - common-minimal-ships
+  - _ship-expedition_command_ship
   - _ship-command_ship
   - _ship-industrial_command_ship
 states:

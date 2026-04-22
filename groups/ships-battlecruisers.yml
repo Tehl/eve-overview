@@ -3,3 +3,4 @@ include:
   - _ship-attack_battlecruiser
   - _ship-combat_battlecruiser
   - _ship-command_ship
+  - _ship-expedition_command_ship
