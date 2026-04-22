@@ -7,5 +7,6 @@ groups:
   - _asteroid
   - _celestial-harvestable_cloud
   - _celestial-compressed_gas
+  - _celestial-phased_asteroid
 states:
   - hostile

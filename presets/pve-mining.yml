@@ -6,6 +6,7 @@ groups:
   - common-pve
   - _asteroid
   - _celestial-harvestable_cloud
+  - _celestial-phased_asteroid
   - rats
   - _ship
   - _drone
